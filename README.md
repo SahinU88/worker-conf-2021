@@ -1,4 +1,4 @@
-# @txp-cms/commerce-ui
+# Worker Conf Samples
 
 ## Recommended IDE Setup
 
@@ -29,10 +29,13 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 Vue 3, Tailwind CSS, Headless UI, Jest, EsLint
 
 ### Linting
+
 `yarn lint --fix`
 
 ### Test
+
 `yarn test`
 
 ### Run Storybook
+
 `yarn storybook`
